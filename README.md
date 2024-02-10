@@ -34,6 +34,4 @@ Join our [Community Forum](#) to discuss ideas, share your creations, and get he
 
 ## License
 
-OSP is released under [MIT License](#). Feel free to modify, distribute, and contribute back to the community.
-
-Let's craft a pen that's not just a tool, but a companion worthy of your everyday adventures. Join us in redefining the art of writing with OSP.
+License to come, upon release of deisgn files.
